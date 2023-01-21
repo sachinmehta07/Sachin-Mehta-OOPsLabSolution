@@ -18,8 +18,10 @@ O/P
 
 Enter your first name
 sachin
+
 Enter your last name
 mehta
+
 Department Choice:
  1.Technical
  2.Admin
@@ -27,6 +29,7 @@ Department Choice:
  4.Legal
 Enter Department Choice:
 3
+
 Dear sachin your generated credentials are as follows
 Email-->sachinmehta@humanResources.abc.com
 PASSWORD-->$XKC!BIC

@@ -31,7 +31,9 @@ Department Choice:
 Enter Department Choice:
 3
 
-Dear sachin your generated credentials are as follows
+Dear sachin your generated credentials are as follows:
+
 Email-->sachinmehta@humanResources.abc.com
 PASSWORD-->$XKC!BIC
+
 Process finished with exit code 0

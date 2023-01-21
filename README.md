@@ -27,6 +27,7 @@ Department Choice:
  2.Admin
  3.Human resources
  4.Legal
+ 
 Enter Department Choice:
 3
 
